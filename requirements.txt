@@ -6,3 +6,4 @@ langchain-google-genai
 chromadb
 pypdf
 fonttools
+pysqlite3-binary
